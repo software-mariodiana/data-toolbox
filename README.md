@@ -1,2 +1,2 @@
 # data-toolbox
-Repo for Coursera "The Data Scientist's Toolbox" course.
+Repo for Coursera's "The Data Scientist's Toolbox" course.
